@@ -1,0 +1,46 @@
+.deleteacc-button{
+    font-family: "RAYDIS";
+    font-size: 0.8vw;
+    border-width: 2.5px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    border-radius: 25px;
+    background-color: #e34d4d;
+    display: inline-block;
+    width: 90%;
+    height: 40px;
+    margin-left: 5%;
+    margin-bottom: 10px;
+}
+
+.passwd-container {
+    border-width: 2.5px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    border-radius: 20px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 95%;
+    height: 15%;
+    min-height: 120px;
+    margin: 2% auto;
+    padding-left: 2%;
+    z-index: 3;
+}
+
+.editpasswd-button{
+    font-family: "RAYDIS";
+    font-size: 0.8vw;
+    border-width: 2.5px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    border-radius: 25px;
+    background-color: #4de359;
+    display: inline-block;
+    width: 90%;
+    height: 40px;
+    margin-left: 5%;
+    margin-bottom: 20%;
+}

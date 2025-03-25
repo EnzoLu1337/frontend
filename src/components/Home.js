@@ -6,7 +6,7 @@ import './Home.css';
 
 const Home = () => {
 
-  const navigate = useNavigate();
+  const navigate = useNavigate(); // Используем хук для перенаправления
 
   const handleLogin = () => {
     navigate('/login');
